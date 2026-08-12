@@ -1,1 +1,1 @@
-# CEDT_ComProg
+# cedt_comprog + cedt_dataalgo
